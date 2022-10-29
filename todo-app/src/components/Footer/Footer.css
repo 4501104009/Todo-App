@@ -1,0 +1,25 @@
+.footer-container {
+  bottom: 0px;
+  position: fixed;
+  background-color: #eeeeee;
+  width: 100%;
+  color: #000000;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 30px;
+}
+
+p {
+  font-weight: 500;
+}
+
+.profile-1 {
+  text-decoration: none;
+  margin-left: 5px;
+  color: #f27474;
+}

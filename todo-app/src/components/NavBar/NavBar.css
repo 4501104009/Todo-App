@@ -1,0 +1,22 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    background-color: #eeeeee;
+}
+
+.navlink {
+    text-decoration: none;
+    font-size: 25px;
+    margin: 40px;
+    font-weight: 900;
+    color: #170055
+}
+
+.navbar-container :hover {
+    transform: scale(1.2);
+    font-weight: 900;
+    color: #170055
+}
